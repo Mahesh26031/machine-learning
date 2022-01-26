@@ -12,7 +12,7 @@ Deep Learning Model which Detects whether the plant has disease or not  with web
 
 # Steps to run the web app
 - Download the repo files as zip and extract them to a folder.
-- Download dataset and Use Rose-Daisy-classification.py to train model
+- Download dataset and Use minor.py to train model
 
 
 
