@@ -11,6 +11,8 @@ Deep Learning Model which Detects whether the plant has disease or not  with web
 - Flask
 
 # Steps to run the web app
+- Download the repo files as zip and extract them to a folder.
+- Download dataset and Use Rose-Daisy-classification.py to train model
 
 
 
