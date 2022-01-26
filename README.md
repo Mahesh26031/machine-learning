@@ -6,6 +6,12 @@ Deep Learning Model which Detects whether the plant has disease or not  with web
 - HTML
 - CSS and JavaScript
 
+# Concepts used 
+- Convulational Neural Networks
+- Flask
+
+# Steps to run the web app
+
 
 
 
